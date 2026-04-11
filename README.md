@@ -1,11 +1,16 @@
 <h1>Rohan Chowdhury</h1>
-<h3>Cybersecurity Analyst &nbsp;|&nbsp; Vulnerability Management &nbsp;|&nbsp; SIEM &nbsp;|&nbsp; Cloud Security</h3>
+<h3>Aspiring SOC Analyst — detecting threats, hardening systems, closing gaps</h3>
 
 <p>
-Cybersecurity analyst with a software engineering background, focused on vulnerability management,
-system hardening, and security monitoring. Experienced in enterprise vulnerability assessments,
-DISA STIG benchmarking, and building SIEM detections using KQL.
-Currently pursuing a B.S. in Cybersecurity &amp; Information Assurance at WGU.
+I'm a cybersecurity analyst intern with a background in software engineering,
+currently working in a SOC-adjacent role at LOG(N) Pacific. I focus on
+vulnerability management, SIEM detection engineering, and system hardening —
+with hands-on experience using Tenable, Microsoft Sentinel, and Defender for Endpoint
+in a real enterprise environment.
+<br /><br />
+My engineering background means I don't just flag issues — I understand the systems
+underneath them. I'm pursuing a B.S. in Cybersecurity &amp; Information Assurance at WGU
+and actively working toward CompTIA Security+ and CySA+.
 </p>
 
 ---
