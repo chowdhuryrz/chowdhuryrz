@@ -8,9 +8,6 @@ vulnerability management, SIEM detection engineering, and system hardening —
 with hands-on experience using Tenable, Microsoft Sentinel, and Defender for Endpoint
 in a real enterprise environment.
 <br /><br />
-My engineering background means I don't just flag issues — I understand the systems
-underneath them. I'm pursuing a B.S. in Cybersecurity &amp; Information Assurance at WGU
-and actively working toward CompTIA Security+ and CySA+.
 </p>
 
 ---
