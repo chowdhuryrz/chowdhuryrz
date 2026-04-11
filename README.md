@@ -23,6 +23,10 @@ in a real enterprise environment.
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/AJZNXHK5C18V" target="_blank">
   <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=flat&logo=google&logoColor=white" />
 </a>
+&nbsp;
+<a href="COMPTIA_CREDLY_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat&logo=comptia&logoColor=white" />
+</a>
 
 ---
 
