@@ -1,5 +1,5 @@
 <h1>Rohan Chowdhury</h1>
-<h3>Aspiring SOC Analyst — detecting threats, hardening systems, closing gaps</h3>
+<h3>Cybersecurity Analyst — detecting threats, hardening systems, closing gaps</h3>
 
 <p>
 I'm a cybersecurity analyst intern with a background in software engineering,
