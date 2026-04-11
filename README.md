@@ -12,6 +12,9 @@ in a real enterprise environment.
 
 ### Certifications
 
+<a href="COMPTIA_CREDLY_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat&logo=comptia&logoColor=white" />
+</a>
 <a href="https://www.credly.com/badges/3990d304-4fd1-4d25-baac-0037067f56ec/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/NVIDIA-NCA--AIIO-76B900?style=flat&logo=nvidia&logoColor=white" />
 </a>
@@ -24,9 +27,6 @@ in a real enterprise environment.
   <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=flat&logo=google&logoColor=white" />
 </a>
 &nbsp;
-<a href="COMPTIA_CREDLY_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat&logo=comptia&logoColor=white" />
-</a>
 
 ---
 
