@@ -1,5 +1,4 @@
 <h1>Rohan Chowdhury</h1>
-<h3>Cybersecurity Analyst</h3>
 
 <p>
 I'm a cybersecurity analyst intern with a background in software engineering,
