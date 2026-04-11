@@ -10,52 +10,33 @@ Currently pursuing a B.S. in Cybersecurity &amp; Information Assurance at WGU.
 
 ---
 
-### 🔐 What I work with
+### Certifications
 
-<table>
-  <tr>
-    <td><b>SIEM / Detection</b></td>
-    <td>Microsoft Sentinel, KQL</td>
-  </tr>
-  <tr>
-    <td><b>Endpoint Security</b></td>
-    <td>Microsoft Defender for Endpoint</td>
-  </tr>
-  <tr>
-    <td><b>Vulnerability Management</b></td>
-    <td>Tenable, DISA STIGs</td>
-  </tr>
-  <tr>
-    <td><b>Scripting &amp; Automation</b></td>
-    <td>PowerShell, Bash</td>
-  </tr>
-  <tr>
-    <td><b>OS</b></td>
-    <td>Windows Server, Linux (Ubuntu, RHEL)</td>
-  </tr>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>Azure, AI Infrastructure (NVIDIA)</td>
-  </tr>
-</table>
-
----
-
-### 🏅 Certifications
-
-<a href="https://www.credly.com/users/rohancho" target="_blank">
+<a href="https://www.credly.com/badges/3990d304-4fd1-4d25-baac-0037067f56ec/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/NVIDIA-NCA--AIIO-76B900?style=flat&logo=nvidia&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.credly.com/users/rohancho" target="_blank">
+<a href="https://www.credly.com/badges/cda56bfd-5bd8-4a75-b3e5-65472a5a8a54/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/LPI-Linux%20Essentials-FCC624?style=flat&logo=linux&logoColor=black" />
 </a>
-
-> 🎯 **In progress:** CompTIA Security+, CompTIA CySA+
+&nbsp;
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/AJZNXHK5C18V" target="_blank">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=flat&logo=google&logoColor=white" />
+</a>
 
 ---
 
-### 💼 Experience
+### Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| [SOC Alert Triage Lab](#) | Simulated SOC environment for triaging and investigating security alerts | Microsoft Sentinel, KQL, Defender |
+| [Vulnerability Remediation Tracker](#) | Dashboard for tracking CVE remediation status across assets | Tenable, PowerShell, Python |
+| [STIG Hardening Scripts](#) | Automated scripts to apply DISA STIG benchmarks on Windows and Linux | PowerShell, Bash |
+
+---
+
+### Experience
 
 **Cybersecurity Analyst Intern — LOG(N) Pacific** *(Jan 2026 – Present)*
 - Vulnerability scanning and remediation across Windows and Linux servers using Tenable
@@ -65,13 +46,13 @@ Currently pursuing a B.S. in Cybersecurity &amp; Information Assurance at WGU.
 
 ---
 
-### 🎓 Education
+### Education
 
 **B.S. Cybersecurity &amp; Information Assurance** — Western Governors University *(2026 – Present)*
 
 ---
 
-### 📫 Connect
+### Connect
 
 <a href="https://www.linkedin.com/in/rohancho/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-rohancho-0A66C2?style=flat&logo=linkedin&logoColor=white" />
