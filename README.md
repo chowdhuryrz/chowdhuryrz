@@ -41,7 +41,7 @@ in a real enterprise environment.
 
 ### Experience
 
-**Cybersecurity Analyst Intern — LOG(N) Pacific** *(Jan 2026 – Present)*
+**Cybersecurity Analyst Intern @ LOG(N) Pacific** *(Jan 2026 – Present)*
 - Vulnerability scanning and remediation across Windows and Linux servers using Tenable
 - Delivered risk-prioritized reports driving patching and hardening efforts
 - Applied DISA STIG benchmarks for system hardening
