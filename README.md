@@ -1,10 +1,7 @@
 <h1>Rohan Chowdhury</h1>
 
 <p>
-I'm a cybersecurity analyst intern with a background in software engineering,
-currently working in a SOC-adjacent role at LOG(N) Pacific. I focus on
-vulnerability management, SIEM detection engineering, and system hardening. I also have hands-on experience using Tenable, Microsoft Sentinel, and Defender for Endpoint
-in a real enterprise environment.
+Cybersecurity Analyst Intern at LOG(N) Pacific with a software engineering background. I work in vulnerability management, SIEM detection engineering, and system hardening using Tenable, Microsoft Sentinel, and Defender for Endpoint.
 </p>
 
 ---
