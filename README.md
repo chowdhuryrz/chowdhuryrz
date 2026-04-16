@@ -35,7 +35,7 @@ Cybersecurity Analyst Intern focused on vulnerability management, SIEM detection
 
 ### Education
 
-**B.S. Cybersecurity & Information Assurance** — Western Governors University *(2026 – Present)*
+**B.S. Cybersecurity & Information Assurance** — Western Governors University *(Expected December 2026)*
 
 ---
 
