@@ -1,7 +1,7 @@
 <h1>Rohan Chowdhury</h1>
 
 <p>
-Cybersecurity Analyst Intern focused on vulnerability management, SIEM detection engineering, and threat hunting using Tenable, Microsoft Sentinel, and Defender for Endpoint.
+Cybersecurity Engineer Intern focused on vulnerability management, SIEM detection engineering, and threat hunting using Tenable, Microsoft Sentinel, and Defender for Endpoint.
 </p>
 
 ---
