@@ -1,17 +1,13 @@
 <h1>Rohan Chowdhury</h1>
 
 <p>
-Cybersecurity Analyst Intern at LOG(N) Pacific with a software engineering background. I work in vulnerability management, SIEM detection engineering, and system hardening using Tenable, Microsoft Sentinel, and Defender for Endpoint.
+Cybersecurity Analyst Intern focused on vulnerability management, SIEM detection engineering, and threat hunting using Tenable, Microsoft Sentinel, and Defender for Endpoint.
 </p>
 
 ---
 
 ### Certifications
 
-<a href="COMPTIA_CREDLY_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat&logo=comptia&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://www.credly.com/badges/3990d304-4fd1-4d25-baac-0037067f56ec/linked_in_profile" target="_blank">
   <img src="https://img.shields.io/badge/NVIDIA-NCA--AIIO-76B900?style=flat&logo=nvidia&logoColor=white" />
 </a>
@@ -30,25 +26,16 @@ Cybersecurity Analyst Intern at LOG(N) Pacific with a software engineering backg
 
 | Project | Description | Tools |
 |---|---|---|
-| [SOC Alert Triage Lab](#) | Simulated SOC environment for triaging and investigating security alerts | Microsoft Sentinel, KQL, Defender |
-| [Vulnerability Remediation Tracker](#) | Dashboard for tracking CVE remediation status across assets | Tenable, PowerShell, Python |
-| [STIG Hardening Scripts](#) | Automated scripts to apply DISA STIG benchmarks on Windows and Linux | PowerShell, Bash |
-
----
-
-### Experience
-
-**Cybersecurity Analyst Intern @ LOG(N) Pacific** *(Jan 2026 – Present)*
-- Vulnerability scanning and remediation across Windows and Linux servers using Tenable
-- Delivered risk-prioritized reports driving patching and hardening efforts
-- Applied DISA STIG benchmarks for system hardening
-- Built SIEM detections and alerts in Microsoft Sentinel using KQL
+| [Threat Hunting: Unauthorized TOR Usage](https://github.com/chowdhuryrz/threat-hunting-scenario-tor) | Investigated unauthorized TOR browser activity on an Azure VM, traced the full attack chain, and documented findings in a formal threat hunt report | Microsoft Defender for Endpoint, KQL, Azure |
+| [Vulnerability Management Program](https://github.com/chowdhuryrz/threat-hunts) | Simulated a complete enterprise vulnerability management lifecycle including credentialed scanning, risk-based prioritization, and remediation verification | Tenable Nessus, PowerShell, Bash, Azure |
+| [STIG Hardening Scripts](https://github.com/chowdhuryrz/stig-hardening-scripts) | Automated PowerShell scripts to apply DISA STIG benchmarks and remediate vulnerabilities on Windows systems at scale | PowerShell, DISA STIG |
+| [Linux Log Analysis and SIEM Visualization](https://github.com/chowdhuryrz/linux-log-analysis) | Detected 40 malicious IPs across 2,000 lines of Linux logs using a custom Python parser, then visualized attack patterns in a Splunk SIEM dashboard | Python, Splunk, SPL |
 
 ---
 
 ### Education
 
-**B.S. Cybersecurity &amp; Information Assurance** — Western Governors University *(2026 – Present)*
+**B.S. Cybersecurity & Information Assurance** — Western Governors University *(2026 – Present)*
 
 ---
 
