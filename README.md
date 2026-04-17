@@ -27,7 +27,7 @@ Cybersecurity Engineer Intern focused on vulnerability management, SIEM detectio
 | Project | Description | Tools |
 |---|---|---|
 | [Threat Hunting: Unauthorized TOR Usage](https://github.com/chowdhuryrz/threat-hunting-scenario-tor) | Investigated unauthorized TOR browser activity on an Azure VM, traced the full attack chain, and documented findings in a formal threat hunt report | Microsoft Defender for Endpoint, KQL, Azure |
-| [Vulnerability Management Program](https://github.com/chowdhuryrz/threat-hunts) | Simulated a complete enterprise vulnerability management lifecycle including credentialed scanning, risk-based prioritization, and remediation verification | Tenable Nessus, PowerShell, Bash, Azure |
+| [Vulnerability Management Program](https://github.com/chowdhuryrz/vulnerability-management-program) | Simulated a complete enterprise vulnerability management lifecycle including credentialed scanning, risk-based prioritization, and remediation verification | Tenable Nessus, PowerShell, Bash, Azure |
 | [STIG Hardening Scripts](https://github.com/chowdhuryrz/stig-hardening-scripts) | Automated PowerShell scripts to apply DISA STIG benchmarks and remediate vulnerabilities on Windows systems at scale | PowerShell, DISA STIG |
 | [Linux Log Analysis and SIEM Visualization](https://github.com/chowdhuryrz/linux-log-analysis) | Detected 40 malicious IPs across 2,000 lines of Linux logs using a custom Python parser, then visualized attack patterns in a Splunk SIEM dashboard | Python, Splunk, SPL |
 
